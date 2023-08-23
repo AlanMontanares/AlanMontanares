@@ -1,5 +1,5 @@
 <div align="center">
-    <img src='sky.gif' width="700">
+    <img src='sky.gif' width="1000">
 </div>
 
 <h1 align="center">
