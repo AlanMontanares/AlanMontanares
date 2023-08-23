@@ -1,5 +1,5 @@
 <div align="center">
-    <img src='sky.gif' width="1000">
+    <img src='https://static.vecteezy.com/system/resources/thumbnails/005/255/101/original/night-starry-skies-with-white-blinking-stars-free-video.jpg' width="1000">
 </div>
 
 <h1 align="center">
