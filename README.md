@@ -1,11 +1,11 @@
 <div align="center">
-    <img src='https://thumbs.gfycat.com/AdeptFalseJunco-size_restricted.gif' width="300">
+    <img src='https://thumbs.gfycat.com/AdeptFalseJunco-size_restricted.gif' width="1000">
 </div>
 
 <h1 align="center">
 Hi, I'm Alan Contreras!
 	<a href="https://github.com/AlanMontanares" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 
