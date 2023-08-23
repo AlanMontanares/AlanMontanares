@@ -1,5 +1,5 @@
 <div align="center">
-    <img src='sky.jpg' style="border-radius: 15px">
+    <img src='https://thumbs.gfycat.com/AdeptFalseJunco-size_restricted.gif' width="300">
 </div>
 
 <h1 align="center">
@@ -37,9 +37,9 @@ Hi, I'm Alan Contreras!
     <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://www.tensorflow.org/?hl=es-419"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"><a>
     <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23FF6F00.svg?logo=PyTorch&logoColor=white"></a>
-    <a href="https://scikit-learn.org/"><img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"><a>
-    <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a>
-    <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
+    <a href="https://scikit-learn.org/"><img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white"><a>
+    <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white"></a>
+    <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white"></a>
 
 
 </p>
