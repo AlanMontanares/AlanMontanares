@@ -1,5 +1,5 @@
 <div align="center">
-    <img src='https://thumbs.gfycat.com/AdeptFalseJunco-size_restricted.gif' width="1000">
+    <img src='https://thumbs.gfycat.com/AdeptFalseJunco-size_restricted.gif' width="500">
 </div>
 
 <h1 align="center">
